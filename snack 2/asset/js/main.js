@@ -60,3 +60,11 @@ for (i = 0; i < club.length; i++) {
 };
 console.log(club);
 
+newArray.push(
+    {
+        nome,
+        falli
+    }
+);
+console.log(newArray);
+
